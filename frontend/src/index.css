@@ -64,6 +64,7 @@ a:hover {
 /* Header */
 header a {
   color: #ffffff;
+  padding: 1rem;
 }
 
 a.brand {
@@ -112,4 +113,7 @@ img.medium {
 .rating span {
   color: #f0c040;
   margin: 00.1rem;
+}
+.rating span:last-child {
+  color: #404040;
 }
